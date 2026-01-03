@@ -7,5 +7,24 @@
     "description": "Personal Claude Code skills library",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "elevenlabs-voice-agents",
+      "source": "./skills/elevenlabs-voice-agents",
+      "description": "Create and deploy ElevenLabs conversational voice agents, phone bots, and voice assistants",
+      "version": "1.0.0"
+    },
+    {
+      "name": "skill-seekers",
+      "source": "./skills/skill-seekers",
+      "description": "Convert documentation websites, GitHub repos, and PDFs into Claude skills",
+      "version": "1.0.0"
+    },
+    {
+      "name": "shot-list",
+      "source": "./skills/shot-list",
+      "description": "Generate professional shot lists from screenplays and scripts",
+      "version": "1.0.0"
+    }
+  ]
 }
