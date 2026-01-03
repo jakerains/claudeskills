@@ -15,8 +15,8 @@ A personal library of Claude Code skills for easy installation and use.
 
 ```bash
 # Clone this repository
-git clone https://github.com/jakerains/claude-skills-collection.git
-cd claude-skills-collection
+git clone https://github.com/jakerains/claudeskills.git
+cd claudeskills
 
 # Copy a skill to Claude's skills directory
 cp -r skills/skill-seekers ~/.claude/skills/
@@ -35,10 +35,10 @@ ln -s $(pwd)/skills/shot-list ~/.claude/skills/shot-list
 
 ```bash
 # Add this repo as a marketplace
-/plugin marketplace add jakerains/claude-skills-collection
+/plugin marketplace add jakerains/claudeskills
 
 # Install skills from it
-/plugin install skill-seekers@claude-skills-collection
+/plugin install skill-seekers@claudeskills
 ```
 
 ## Skill Details
