@@ -10,19 +10,19 @@ Works with **Claude Code**, **OpenCode**, **Codex**, and **Cursor**.
 
 ```bash
 # List available skills
-npx add-skill jakerains/claudeskills --list
+npx add-skill jakerains/AgentSkills --list
 
 # Install a specific skill
-npx add-skill jakerains/claudeskills --skill elevenlabs-voice-agents
-npx add-skill jakerains/claudeskills --skill skill-seekers
-npx add-skill jakerains/claudeskills --skill shot-list
-npx add-skill jakerains/claudeskills --skill vercel-workflow
+npx add-skill jakerains/AgentSkills --skill elevenlabs-voice-agents
+npx add-skill jakerains/AgentSkills --skill skill-seekers
+npx add-skill jakerains/AgentSkills --skill shot-list
+npx add-skill jakerains/AgentSkills --skill vercel-workflow
 
 # Install all skills
-npx add-skill jakerains/claudeskills
+npx add-skill jakerains/AgentSkills
 
 # Install globally (available in all projects)
-npx add-skill jakerains/claudeskills --skill vercel-workflow -g
+npx add-skill jakerains/AgentSkills --skill vercel-workflow -g
 ```
 
 ## Skills
