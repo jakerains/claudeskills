@@ -70,6 +70,17 @@ npx add-skill jakerains/AgentSkills --skill shot-list
 
 ---
 
+### docxmakebetter
+> Comprehensive Word document creation, editing, and analysis
+
+**Use for:** Creating .docx files, tracked changes, comments, redlining workflows, document review, text extraction from Word documents
+
+```bash
+npx add-skill jakerains/AgentSkills --skill docxmakebetter
+```
+
+---
+
 ## Installation Options
 
 ```bash
