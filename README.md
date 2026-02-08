@@ -81,6 +81,17 @@ npx skill jakerains/AgentSkills --skill nextjs-pwa
 
 ---
 
+### sam3
+> Create and work with Meta SAM 3 for open-vocabulary segmentation
+
+**Use for:** SAM3 setup, Hugging Face checkpoint auth, image/video segmentation workflows, Python integration, fine-tuning, and SA-Co evaluation
+
+```bash
+npx skill jakerains/AgentSkills --skill sam3
+```
+
+---
+
 ### docxmakebetter
 > Comprehensive Word document creation, editing, and analysis
 
