@@ -13,6 +13,35 @@ __pycache__/
 .vscode/
 .idea/
 
+# Agent skill install outputs
+.agent/
+.agents/
+.claude/
+.cline/
+.codex/
+.commandcode/
+.continue/
+.crush/
+.cursor/
+.factory/
+.gemini/
+.github/
+.goose/
+.kilocode/
+.kiro/
+.mcpjam/
+.neovate/
+.opencode/
+.openhands/
+.pi/
+.qoder/
+.qwen/
+.roo/
+.trae/
+.windsurf/
+.zencoder/
+AGENTS.md
+
 # Temporary files
 *.tmp
 *.temp
