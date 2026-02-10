@@ -4,7 +4,7 @@ This file provides guidance to AI coding agents when working with code in this r
 
 ## Repository Purpose
 
-This is a personal agent skills library compatible with multiple AI coding agents (Claude Code, Cursor, Codex, OpenCode, and more via [skills.sh](https://skills.sh)). Skills are stored in `skills/` and can be installed via `npx skills add jakerains/AgentSkills`.
+This is a personal agent skills library compatible with 18+ AI coding agents including AMP, Antigravity, Claude Code, ClawdBot, Cline, Codex, Cursor, Droid, Gemini, GitHub Copilot, Goose, Kilo, Kiro CLI, OpenCode, Roo, Trae, VSCode, and Windsurf (via [skills.sh](https://skills.sh)). Skills are stored in `skills/` and can be installed via `npx skills add jakerains/AgentSkills`.
 
 ## Repository Structure
 

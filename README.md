@@ -15,12 +15,16 @@ npx skills add jakerains/AgentSkills
 
 ## Supported Agents
 
-| Agent | Project Location | Global Location |
-|-------|------------------|-----------------|
-| **Claude Code** | `.claude/skills/` | `~/.claude/skills/` |
-| **OpenCode** | `.opencode/skill/` | `~/.config/opencode/skill/` |
-| **Codex** | `.codex/skills/` | `~/.codex/skills/` |
-| **Cursor** | `.cursor/skills/` | `~/.cursor/skills/` |
+Works with **18+ AI coding agents** via [skills.sh](https://skills.sh):
+
+| Agent | Agent | Agent |
+|-------|-------|-------|
+| AMP | Antigravity | Claude Code |
+| ClawdBot | Cline | Codex |
+| Cursor | Droid | Gemini |
+| GitHub Copilot | Goose | Kilo |
+| Kiro CLI | OpenCode | Roo |
+| Trae | VSCode | Windsurf |
 
 ---
 
