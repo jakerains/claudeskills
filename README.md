@@ -103,6 +103,17 @@ npx skills add jakerains/AgentSkills --skill docxmakebetter
 
 ---
 
+### onnx-webgpu-converter
+> Convert HuggingFace models to ONNX for browser inference with Transformers.js + WebGPU
+
+**Use for:** ONNX conversion, optimum-cli export, model quantization (fp16/q8/q4), Transformers.js setup, WebGPU inference, running ML models in the browser
+
+```bash
+npx skills add jakerains/AgentSkills --skill onnx-webgpu-converter
+```
+
+---
+
 ## Installation Options
 
 ```bash
