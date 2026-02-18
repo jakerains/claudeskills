@@ -118,6 +118,17 @@ npx skills add jakerains/AgentSkills --skill onnx-webgpu-converter
 
 ---
 
+### apple-foundation-models
+> Build Apple Intelligence app features with Foundation Models and Image Playground
+
+**Use for:** SystemLanguageModel, LanguageModelSession, guided generation, tool calling, custom adapters, local vs larger-model routing, and ImagePlayground/ImageCreator integration on iOS and macOS
+
+```bash
+npx skills add jakerains/AgentSkills --skill apple-foundation-models
+```
+
+---
+
 ## Installation Options
 
 ```bash
